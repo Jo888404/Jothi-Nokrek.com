@@ -16,10 +16,7 @@ h1 {
     color: orange;
 }
 
-section {
-    display: flex;
-    margin-bottom: 10%;
-}
+
 
 .half-width {
     width: 50%;
@@ -37,4 +34,9 @@ section {
     color: aliceblue;
     font-weight: 700;
     border-radius: 5px;
+}
+
+.Experiences {
+    display: flex;
+    margin-bottom: 10%;
 }
